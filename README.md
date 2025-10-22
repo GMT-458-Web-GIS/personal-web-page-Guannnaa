@@ -71,7 +71,7 @@ Hacettepe University
 
 ## 🧩 How to View
 1. Download or clone the repository:
-  
+  https://guannnaa.github.io/G-khan/
 2. Open `index.html` in your browser.
 
 
